@@ -2,3 +2,4 @@
 /rabbitmq-v3/target/
 /rabbitmq-v5/target/
 /.idea/
+*.iml
